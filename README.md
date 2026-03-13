@@ -88,14 +88,39 @@ godbot-discord/
 ├── settings.py
 ├── .env.example
 ├── .gitignore
+├── bankrobber.json
+├── courtroom_cases.json
+├── data.json
+├── embed_schedules.json
+├── eventlive.json
+├── poll.json
+├── polls.json
 └── sections/
     ├── economy/
     │   ├── economy.py
     │   ├── shop.py
-    │   └── game_*.py
+    │   ├── game_archeology.py
+    │   ├── game_bankrobber.py
+    │   ├── game_betting.py
+    │   ├── game_courtroom.py
+    │   ├── game_fishing.py
+    │   ├── game_flipacoin.py
+    │   ├── game_goldmine.py
+    │   ├── game_jailbreak.py
+    │   ├── game_quiz.py
+    │   ├── game_randomevents.py
+    │   └── game_rockpaperscissors.py
     ├── moderation/
+    │   ├── buttons.py
+    │   ├── embed.py
+    │   ├── moderation.py
+    │   ├── poll.py
+    │   ├── profile.py
+    │   └── welcome.py
     ├── music/
+    │   └── music.py
     └── xp/
+        └── xp_system.py
 ```
 
 ---
