@@ -77,7 +77,7 @@ from scratch to improve the codebase and architecture.
   - `xp/` — XP tracking, leveling, rank roles
   - `music/` — audio playback for quiz games
 - **Configuration:** All sensitive IDs and tokens stored in `.env`
-- **Data storage:** JSON files (not included — see `.env.example`)
+- **Data storage:** JSON files (not included — see `.env.example`) 
 
 ---
 
